@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Creo en rama principal un archivo.txt
+=======
+Creo archivo en pruebas2
+Creo otro archivo de texto
+>>>>>>> pruebas2
